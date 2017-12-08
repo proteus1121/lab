@@ -9,8 +9,7 @@
       <property name="hibernate.show_sql" value="true"/>
       <property name="hibernate.connection.username" value="root"/>
       <property name="hibernate.connection.password" value="ghjnjy_333"/>
-
-      <property name="hibernate.connection.url" value="jdbc:mysql://192.168.99.100:3306/lab5"/>
+      <property name="hibernate.connection.url" value="jdbc:mysql://proteus.pp.ua:2225/lab5"/>
       <property name="hibernate.max_fetch_depth" value="3"/>
     </properties>
   </persistence-unit>
