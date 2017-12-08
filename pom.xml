@@ -12,7 +12,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.filyagin.presentation.Main</mainClass>
+                            <mainClass>com.mycompany.lab5_design.presentetion.Main</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
